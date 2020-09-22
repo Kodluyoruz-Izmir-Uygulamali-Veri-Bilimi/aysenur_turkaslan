@@ -1,1 +1,1 @@
-homeworks/week1 - İzmir Veri Bilimi Bootcamp
+Koddluyoruz İzmir Uygulamalı Veri Bilimi Bootcamp
